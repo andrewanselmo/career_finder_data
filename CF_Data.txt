@@ -1,0 +1,46 @@
+Task, Time (seconds), Correct, Incorrect, Correct Total
+Login, 2, 1, 0, 1
+Profile/pinned career, 8.4, 1, 0, 1
+Navigate home, 4.2, 1, 0, 1
+Quiz page 2, 5.7, 2, 0, 2
+Professional chat, 10.2, 3, 1, 2
+Education search, 12.7, 4, 1, 3
+Help search, 11.6, 3, 0, 3
+Navigate settings , 4.4, 1, 0, 1
+Career search, 14.6, 3, 1, 2
+Login, 1.7, 1, 0, 1
+Profile/pinned career, 10.3, 1, 1, 0
+Navigate home, 3.2, 1, 0, 1
+Quiz page 2, 7.9, 2, 0, 2
+Professional chat, 10.3, 3, 1, 2
+Education search, 13.5, 4, 2, 2
+Help search, 10.4, 3, 0, 3
+Navigate settings, 4.0, 1, 0, 1
+Career search , 13.2, 3, 0, 3
+Login, 1.4, 1, 0, 1
+Profile/pinned career, 12.3, 1, 0, 1
+Navigate home, 2.3, 1, 0, 1
+Quiz page 2 , 7.4, 2, 0, 2
+Professional chat, 11.9, 3, 0, 3
+Education search, 12.9, 4, 0, 4
+Help search, 9.3, 3, 0, 3
+Navigate settings, 4.2, 1, 0, 1
+Career search, 13.9, 3, 0, 3
+Login, 1.2, 1, 0, 1
+Profile/pinned career, 11.3, 1, 0, 1
+Navigate home, 3.7, 1, 0, 1
+Quiz page 2, 7.8, 2, 0, 2
+Professional chat, 16.4, 4, 2, 2
+Education search, 15.4, 4, 1, 3
+Help search, 9.8, 3, 0, 3
+Navigate settings, 4.2, 1, 0, 1
+Career search, 10.0, 3, 0, 3
+Login, 1.9, 1, 0, 1
+Profile/pinned career, 5.1, 1, 0, 1
+Navigate home, 1.4, 1, 0, 1
+Quiz page 2, 7.4, 2, 0, 2
+Professional chat, 10.3, 3, 0, 3
+Education search, 11.4, 4, 0, 4
+Help search, 8.6, 3, 0, 3
+Navigate settings, 4.3, 1, 0, 1
+Career search, 12.9, 3, 0, 3
